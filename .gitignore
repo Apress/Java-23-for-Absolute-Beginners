@@ -14,7 +14,7 @@ libs/*.properties
 .mtj.tmp/
 
 # Package Files #
-build/libs/*.jar
+#build/libs/*.jar
 *.war
 *.ear
 *.log

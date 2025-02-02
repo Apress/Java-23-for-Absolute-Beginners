@@ -27,26 +27,26 @@ SOFTWARE.
 */
 package com.apress.bgn.nine.algs;
 
-/**
- * The `QuickSort` class contains a single method that is a concrete implementation of
- * [IntSorter#sort(int[], int, int)](com.apress.bgn.nine.algs.IntSorter#sort(int[], int, int)).
- * Instances of this class can be used to sort an `int[]` array using the quick-sort algorithm.
- * Quicksort is an efficient, general-purpose, _divide-and-conquer_ sorting algorithm.
- *
- * @author Iuliana Cosmina
- * since 1.0
- * @see IntSorter
- */
+///
+///  The `QuickSort` class contains a single method that is a concrete implementation of
+///  [IntSorter#sort(int[], int, int)](com.apress.bgn.nine.algs.IntSorter#sort(int[], int, int)).
+///  Instances of this class can be used to sort an `int[]` array using the quick-sort algorithm.
+///  Quicksort is an efficient, general-purpose, _divide-and-conquer_ sorting algorithm.
+///
+///  @author Iuliana Cosmina
+///  since 1.0
+///  @see IntSorter
+///
 public class QuickSort implements IntSorter {
 
 
-    /**
-     * [How it works](https://youtu.be/ywWBy6J5gz8)
-     *
-     * @param arr int array to be sorted
-     * @param low lower limit of the interval to be sorted
-     * @param high higher limit of the interval to be sorted
-     */
+    ///
+    /// [How it works](https://youtu.be/ywWBy6J5gz8)
+    ///
+    /// @param arr int array to be sorted
+    /// @param low lower limit of the interval to be sorted
+    /// @param high higher limit of the interval to be sorted
+    ///
     @Override
     public void sort(int[] arr, int low, int high) {
         if (low < high) {
