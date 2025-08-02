@@ -23,4 +23,7 @@ should be replaced with
 
 to make the following affirmations in the chapter about the `mess` value being stored in the String Pool correct.
 
+
+(Submitted by _Seyed Abolfazl Hashemi_)
+
 '''
