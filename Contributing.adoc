@@ -1,6 +1,6 @@
 == Contributing to Apress Source Code
 
-Copyright for Apress source code belongs to the author(s). However, under fair use you are encouraged to fork and contribute minor corrections and updates for the benefit of the author(s) and other readers.
+Copyright for Apress source code belongs to the author(s). However, under fair use, you are encouraged to fork and contribute minor corrections and updates for the benefit of the author(s) and other readers.
 
 === How to Contribute
 
@@ -15,7 +15,7 @@ Thank you for your contribution!
 
 == Contributing to the Book Contents
 
-Copyright for Apress book content belongs to the Apress and author(s). However, under fair use you are encouraged to contribute minor corrections and updates for the benefit of the author(s) and other readers.
+Copyright for Apress book content belongs to the Apress and author(s). However, under fair use, you are encouraged to contribute minor corrections and updates for the benefit of the author(s) and other readers.
 
 === How to Contribute
 
@@ -30,3 +30,5 @@ Thank you for your contribution!
 == Current list of contributors
 
 The list below contains the list of people that have found errors in the previous edition of the book and submitted them to the author and made sure the third edition was better.
+
+* https://www.linkedin.com/in/seyed-abolfazl-hashemi-5150b580[Seyed Abolfazl Hashemi]

@@ -58,10 +58,7 @@ public class PrimitivesDemo {
     }
 
     static int add(int a, int b) {
-        var mess = new String("performing add ... ");
+        var mess = "performing add ... ";
         return a + b;
     }
 }
-
-
-

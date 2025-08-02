@@ -1,6 +1,4 @@
 # Enable auto-env through the sdkman_auto_env config
 # Add key=value pairs of SDKs to use below
-java=23-amzn
-maven=4.0.0-beta-4
-# if you do not want to use Maven 4.0.0-beta-3, comment the previous line and remove comment from the next one
-#maven=3.9.8
+java=23.0.2-amzn
+maven=3.9.11
