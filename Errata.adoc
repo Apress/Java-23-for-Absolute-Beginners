@@ -1,5 +1,26 @@
 == Errata for Java for Absolute Beginners
 
+Hi guys, I am really thankful to all of you that have bought the book and have contributed to finding mistakes in it and in the code, and asking questions about details that seem unclear.
 
-_Nothing here yet, hopefully it stays this way! ;)_
+'''
 
+=== Chapter 5: Data Types
+
+
+On **page 228**, Listing 5-3 contains a small mistake. Line 16
+
+[source, java]
+----
+16.   String mess =  new String("performing add ...);
+----
+
+should be replaced with
+
+[source, java]
+----
+16.   String mess =  "performing add ...;
+----
+
+to make the following affirmations in the chapter about the `mess` value being stored in the String Pool correct.
+
+'''
